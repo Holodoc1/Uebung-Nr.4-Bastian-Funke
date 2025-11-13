@@ -20,6 +20,7 @@ public class P1_Main {
 			break;
 		default:
 			System.out.println("unbekannt");
+			break;
 		}
 	}
 	
